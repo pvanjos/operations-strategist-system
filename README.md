@@ -1,1 +1,0 @@
-# operations-strategist-system
